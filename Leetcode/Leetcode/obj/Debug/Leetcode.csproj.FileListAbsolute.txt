@@ -5,3 +5,10 @@ D:\新建文件夹\Leetcode\Leetcode\obj\Debug\Leetcode.csprojResolveAssemblyRef
 D:\新建文件夹\Leetcode\Leetcode\obj\Debug\Leetcode.csproj.CoreCompileInputs.cache
 D:\新建文件夹\Leetcode\Leetcode\obj\Debug\Leetcode.exe
 D:\新建文件夹\Leetcode\Leetcode\obj\Debug\Leetcode.pdb
+D:\Github\leetcode\Leetcode\Leetcode\bin\Debug\Leetcode.exe.config
+D:\Github\leetcode\Leetcode\Leetcode\bin\Debug\Leetcode.exe
+D:\Github\leetcode\Leetcode\Leetcode\bin\Debug\Leetcode.pdb
+D:\Github\leetcode\Leetcode\Leetcode\obj\Debug\Leetcode.csprojResolveAssemblyReference.cache
+D:\Github\leetcode\Leetcode\Leetcode\obj\Debug\Leetcode.csproj.CoreCompileInputs.cache
+D:\Github\leetcode\Leetcode\Leetcode\obj\Debug\Leetcode.exe
+D:\Github\leetcode\Leetcode\Leetcode\obj\Debug\Leetcode.pdb

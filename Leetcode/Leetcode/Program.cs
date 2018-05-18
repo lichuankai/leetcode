@@ -12,7 +12,7 @@ namespace Leetcode
         {
             int[] nums = { 1, 1, 2, 3, 3, 4, 5, 5, 7, 7 };
 
-            int result = RemoveDuplicates(nums);
+            int result = MaxProfit(nums);
 
             Console.WriteLine(result);
             Console.ReadLine();
@@ -44,6 +44,35 @@ namespace Leetcode
             return temp + 1;
         }
 
+        /// <summary>
+        /// 买卖股票的最佳时机 II
+        /// 给定一个数组，它的第 i 个元素是一支给定股票第 i 天的价格。
+        ///设计一个算法来计算你所能获取的最大利润。你可以尽可能地完成更多的交易（多次买卖一支股票）。
+        ///注意：你不能同时参与多笔交易（你必须在再次购买前出售掉之前的股票）。
+        ///
+        ///思路：贪心算法，只要可以产生利润（后一天比前一天股票价值上升），就进行一次买卖
+        /// </summary>
+        /// <param name="prices"></param>
+        /// <returns></returns>
+        public static int MaxProfit(int[] prices)
+        {
+            if(prices.Length == 0 && prices == null)
+            {
+                return 0;
+            }
+
+            int max = 0;
+
+            for(int i=1; i < prices.Length; i++)
+            {
+                if (prices[i-1] < prices[i])
+                {
+                    max += (prices[i] - prices[i-1]);
+                }
+            }
+
+            return max;
+        }
 
     }
 }
