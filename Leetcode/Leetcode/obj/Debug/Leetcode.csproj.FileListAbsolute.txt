@@ -1,0 +1,7 @@
+D:\新建文件夹\Leetcode\Leetcode\bin\Debug\Leetcode.exe.config
+D:\新建文件夹\Leetcode\Leetcode\bin\Debug\Leetcode.exe
+D:\新建文件夹\Leetcode\Leetcode\bin\Debug\Leetcode.pdb
+D:\新建文件夹\Leetcode\Leetcode\obj\Debug\Leetcode.csprojResolveAssemblyReference.cache
+D:\新建文件夹\Leetcode\Leetcode\obj\Debug\Leetcode.csproj.CoreCompileInputs.cache
+D:\新建文件夹\Leetcode\Leetcode\obj\Debug\Leetcode.exe
+D:\新建文件夹\Leetcode\Leetcode\obj\Debug\Leetcode.pdb
